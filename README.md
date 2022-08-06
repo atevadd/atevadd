@@ -4,7 +4,7 @@ A frontend developer specializing on the web with Javascript technologies. My da
 
 I'm currently building app with Vue js and its ecosystem. Here are some fun facts about:
 - I love tech, i'm not a nerd maybe just a little😁
-- My goals is to build  products that matter and solve problems.
+- My goal is to build products that matter and solve problems.
 
 ---
 
